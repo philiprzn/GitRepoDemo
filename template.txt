@@ -1,3 +1,4 @@
+
 Hello Git! 
 Moded
 moded 2
@@ -5,3 +6,6 @@ moded 2
 branch - ponedelnik
 
 Здесь мы добавили второго разработчика и он уже закоммитил 
+
+developer2
+
