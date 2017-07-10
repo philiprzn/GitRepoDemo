@@ -3,3 +3,10 @@
 Добавили изменения с помощью PHPStorm
 
 Еще изменение из PHP Storm.
+
+
+Ctrl+k
+Ctrl+enter
+
+Ctrl+Shift+k
+Ctrl+enter
